@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main (void) {
+  float f;
+  f = 100.123
+  printf ("f is %f, ", f);
+return 0;
+}

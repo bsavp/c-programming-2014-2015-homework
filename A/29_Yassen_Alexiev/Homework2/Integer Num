@@ -1,0 +1,9 @@
+#include <sstdio.h>
+
+int main (void) {
+  int num;
+  num = 13;
+  printf ("%d",num);
+
+return 0;
+}
